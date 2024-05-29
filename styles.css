@@ -33,7 +33,7 @@ input[type="radio"] {
 button {
     padding: 10px 20px;
     background-color: #39FF14;
-    color: #fff;
+    color: #333;
     border: none;
     border-radius: 5px;
     cursor: pointer;
